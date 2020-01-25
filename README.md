@@ -6,7 +6,7 @@ Libraries Used: Keras, Numpy, NLTK
 
 Attached Files:
 1. Code: (a) ModelCreation.py 	(b) TextGeneration.py
-2. Corpus: wonderland.txt
+2. Corpus: wonderland.txt (Can be anything. Need to put the path of the text in both the python file - TextGeneration.py and ModelCreation.py).
 3. Best Model: The saved weights of an RNN model, which performs better than other
 
 
